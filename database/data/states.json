@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Aguascalientes",
+        "geo_code": "01",
+        "state_code": "01",
+        "abbreviation": "Ags."
+    },
+    {
+        "name": "Baja California",
+        "geo_code": "02",
+        "state_code": "02",
+        "abbreviation": "BC"
+    },
+    {
+        "name": "Baja California Sur",
+        "geo_code": "03",
+        "state_code": "03",
+        "abbreviation": "BCS"
+    },
+    {
+        "name": "Campeche",
+        "geo_code": "04",
+        "state_code": "04",
+        "abbreviation": "Camp."
+    },
+    {
+        "name": "Coahuila de Zaragoza",
+        "geo_code": "05",
+        "state_code": "05",
+        "abbreviation": "Coah."
+    },
+    {
+        "name": "Colima",
+        "geo_code": "06",
+        "state_code": "06",
+        "abbreviation": "Col."
+    },
+    {
+        "name": "Chiapas",
+        "geo_code": "07",
+        "state_code": "07",
+        "abbreviation": "Chis."
+    },
+    {
+        "name": "Chihuahua",
+        "geo_code": "08",
+        "state_code": "08",
+        "abbreviation": "Chih."
+    },
+    {
+        "name": "Ciudad de México",
+        "geo_code": "09",
+        "state_code": "09",
+        "abbreviation": "CDMX"
+    },
+    {
+        "name": "Durango",
+        "geo_code": "10",
+        "state_code": "10",
+        "abbreviation": "Dgo."
+    },
+    {
+        "name": "Guanajuato",
+        "geo_code": "11",
+        "state_code": "11",
+        "abbreviation": "Gto."
+    },
+    {
+        "name": "Guerrero",
+        "geo_code": "12",
+        "state_code": "12",
+        "abbreviation": "Gro."
+    },
+    {
+        "name": "Hidalgo",
+        "geo_code": "13",
+        "state_code": "13",
+        "abbreviation": "Hgo."
+    },
+    {
+        "name": "Jalisco",
+        "geo_code": "14",
+        "state_code": "14",
+        "abbreviation": "Jal."
+    },
+    {
+        "name": "México",
+        "geo_code": "15",
+        "state_code": "15",
+        "abbreviation": "Mex."
+    },
+    {
+        "name": "Michoacán de Ocampo",
+        "geo_code": "16",
+        "state_code": "16",
+        "abbreviation": "Mich."
+    },
+    {
+        "name": "Morelos",
+        "geo_code": "17",
+        "state_code": "17",
+        "abbreviation": "Mor."
+    },
+    {
+        "name": "Nayarit",
+        "geo_code": "18",
+        "state_code": "18",
+        "abbreviation": "Nay."
+    },
+    {
+        "name": "Nuevo León",
+        "geo_code": "19",
+        "state_code": "19",
+        "abbreviation": "NL"
+    },
+    {
+        "name": "Oaxaca",
+        "geo_code": "20",
+        "state_code": "20",
+        "abbreviation": "Oax."
+    },
+    {
+        "name": "Puebla",
+        "geo_code": "21",
+        "state_code": "21",
+        "abbreviation": "Pue."
+    },
+    {
+        "name": "Querétaro",
+        "geo_code": "22",
+        "state_code": "22",
+        "abbreviation": "Qro."
+    },
+    {
+        "name": "Quintana Roo",
+        "geo_code": "23",
+        "state_code": "23",
+        "abbreviation": "Q. Roo"
+    },
+    {
+        "name": "San Luis Potosí",
+        "geo_code": "24",
+        "state_code": "24",
+        "abbreviation": "SLP"
+    },
+    {
+        "name": "Sinaloa",
+        "geo_code": "25",
+        "state_code": "25",
+        "abbreviation": "Sin."
+    },
+    {
+        "name": "Sonora",
+        "geo_code": "26",
+        "state_code": "26",
+        "abbreviation": "Son."
+    },
+    {
+        "name": "Tabasco",
+        "geo_code": "27",
+        "state_code": "27",
+        "abbreviation": "Tab."
+    },
+    {
+        "name": "Tamaulipas",
+        "geo_code": "28",
+        "state_code": "28",
+        "abbreviation": "Tamps."
+    },
+    {
+        "name": "Tlaxcala",
+        "geo_code": "29",
+        "state_code": "29",
+        "abbreviation": "Tlax."
+    },
+    {
+        "name": "Veracruz de Ignacio de la Llave",
+        "geo_code": "30",
+        "state_code": "30",
+        "abbreviation": "Ver."
+    },
+    {
+        "name": "Yucatán",
+        "geo_code": "31",
+        "state_code": "31",
+        "abbreviation": "Yuc."
+    },
+    {
+        "name": "Zacatecas",
+        "geo_code": "32",
+        "state_code": "32",
+        "abbreviation": "Zac."
+    }
+]

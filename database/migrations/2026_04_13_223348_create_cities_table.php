@@ -16,10 +16,10 @@ return new class extends Migration
              $table->foreignId('state_id')
                   ->constrained()
                   ->cascadeOnDelete();
-            $table->string('state_code', 10)->nullable();
-            $table->string('geo_code', 10)->nullable();
-            $table->string('city_code', 10)->nullable();
-            $table->string('name', 100)->nullable();
+            $table->string('state_code', 10);
+            $table->string('geo_code', 10);
+            $table->string('city_code', 10);
+            $table->string('name', 100);
             $table->timestamps();
         });
     }
