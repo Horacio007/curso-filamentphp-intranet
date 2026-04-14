@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Filament\Resources\Users\Tables;
+namespace App\Filament\Resources\States\Tables;
 
 use Filament\Actions\BulkActionGroup;
 use Filament\Actions\DeleteBulkAction;
@@ -9,29 +9,20 @@ use Filament\Actions\ViewAction;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
 
-class UsersTable
+class StatesTable
 {
     public static function configure(Table $table): Table
     {
         return $table
             ->columns([
+                TextColumn::make('geo_code')
+                    ->searchable(),
+                TextColumn::make('state_code')
+                    ->searchable(),
                 TextColumn::make('name')
                     ->searchable(),
-                TextColumn::make('email')
-                    ->label('Email address')
+                TextColumn::make('abbreviation')
                     ->searchable(),
-                TextColumn::make('address')
-                    ->label('Dirección')
-                    ->sortable()
-                    ->searchable(),
-                TextColumn::make('postal_code')
-                    ->label('Codigo Postal')
-                    ->sortable()
-                    ->searchable(),
-                TextColumn::make('email_verified_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
                 TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
